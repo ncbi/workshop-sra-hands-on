@@ -1,4 +1,3 @@
-# workshop-sra-hands-on
 # WORKSHOP MATERIALS
 ## *Practical Strategies for Using SRA Lite and Cloud-Optimized Data Formats*
 
