@@ -1,7 +1,8 @@
-# *Getting Started with Using SRA Lite and Cloud-Optimized Data Formats*
-## WORKSHOP MATERIALS
+# *Getting Started with Using SRA*
+## A Practical Guide to using SRA Lite and Cloud-Optimized Data Formats
 
-### Summary
+### WORKSHOP MATERIALS
+
 As sequencing datasets continue to expand, researchers face new challenges in efficiently storing, transferring, and analyzing large-scale genomic data. The NIH Sequence Read Archive is the largest archive for next-gen sequence data that is hosted by the National Library of Medicine (NLM) and managed by the National Center for Biotechnology Information (NCBI).
 
 This hands-on workshop — led by SRA subject matter experts at NCBI — will provide both newcomers and experienced users with practical strategies to locate and retrieve relevant SRA Lite and other cloud-optimized data formats for their genomic analyses and research workflows.
