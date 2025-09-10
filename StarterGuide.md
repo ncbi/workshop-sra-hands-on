@@ -140,11 +140,7 @@ prefetch SRR1553607
 fasterq-dump SRR1553607
 ```
 
-4. Please note storage considerations! The SRA Toolkit needs **~18× the size of the accession** during conversion using `fasterq-dump`.
-
-For example,  a 500MB `.sra` file would need  ~9GB free disk space in order to generate temporary files, and the final FASTQ files.
-
-You can check free space with:
+4. Please note storage considerations! The SRA Toolkit needs **~18× the size of the accession** during conversion using `fasterq-dump`. For example,  a 500MB `.sra` file would need  ~9GB free disk space in order to generate temporary files, and the final FASTQ files. You can check free space with:
 
 ```bash
 df -h
@@ -152,7 +148,7 @@ df -h
 
 ---
 
-## 6. Getting Help
+## 5. Getting Help
 
 Each tool has built-in help using the `--help` or `h` option. For example, for `fasterq-dump` you could use the following options:
 
