@@ -26,7 +26,7 @@ For more information, you can always visit the [NCBI SRA-Tools GitHub wiki](http
 
 5. Great! Move to the next section, "2. Configure the SRA Toolkit".
 
----
+
 
 ### macOS and Linux (using Homebrew)
 
@@ -47,6 +47,7 @@ brew install sratoolkit
 ```
 
 3. That's it! You can move onto the next section, "2. Configure the SRA Toolkit".
+
 
 
 ### macOS and Linux (direct from NCBI)
@@ -83,7 +84,6 @@ brew install sratoolkit
 
 5. That's it! You can move onto the next section, "2. Configure the SRA Toolkit".
 
-
 ---
 
 ## 2. Configure the SRA Toolkit
@@ -108,7 +108,6 @@ vdb-config -i
 
 ---
 
-
 ## 3. Test Your Installation
 
 Run a quick check:
@@ -118,11 +117,6 @@ fastq-dump --stdout -X 2 SRR390728
 ```
 
 If you see 2 reads in FASTQ format, your installation is working!
-
-
-
-
-
 
 ---
 
@@ -155,7 +149,6 @@ You can check free space with:
 ```bash
 df -h
 ```
-
 
 ---
 
